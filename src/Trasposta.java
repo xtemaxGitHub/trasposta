@@ -5,7 +5,7 @@ public class Trasposta {
         int[][] matr1= new int[MAX][MAX];
         int[][] matr2= new int[MAX][MAX];
         int[][] matr3= new int[MAX][MAX];
-        int[][] matr4= new int[MAX][MAX];
+        int[][] matr4= new int[MAX][MAX];// aggiunto commento
 
          System.out.println("+++++++++++ Matrice ++++++++++++++++++");
         // inizializza casualmente la matrice
